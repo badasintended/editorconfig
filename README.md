@@ -1,0 +1,3 @@
+# editorconfig
+
+universal cursedness
